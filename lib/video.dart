@@ -17,16 +17,16 @@ class Videoads extends StatelessWidget {
             SizedBox(
               height: 50,
             ),
-            // MaxAdView(
-            //   adUnitId: "bbf3c49f9e4cca49",
-            //   adFormat: AdFormat.banner,
-            //   listener: AdViewAdListener(
-            //       onAdLoadedCallback: (ad) {},
-            //       onAdLoadFailedCallback: (adUnitId, error) {},
-            //       onAdClickedCallback: (ad) {},
-            //       onAdExpandedCallback: (ad) {},
-            //       onAdCollapsedCallback: (ad) {}),
-            // ),
+            MaxAdView(
+              adUnitId: "dcbf056eb70aa1c9",
+              adFormat: AdFormat.banner,
+              listener: AdViewAdListener(
+                  onAdLoadedCallback: (ad) {},
+                  onAdLoadFailedCallback: (adUnitId, error) {},
+                  onAdClickedCallback: (ad) {},
+                  onAdExpandedCallback: (ad) {},
+                  onAdCollapsedCallback: (ad) {}),
+            ),
           ],
         ),
       ),

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kidslearning.game">
    <application
-        android:label="vip sports "
+        android:label="White Hosue Work "
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">  
         <activity

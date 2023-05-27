@@ -32,7 +32,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 50,
             ),
             MaxAdView(
-              adUnitId: "1ed1333f4b8b880f",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -45,7 +45,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "f5d85a30f12ca9e2",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -58,7 +58,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "83bdc57c9cb496f0",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -71,7 +71,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "573f0b7a27daf9df",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -84,7 +84,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "c040bb6ec624ef08",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -97,7 +97,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "1ed1333f4b8b880f",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -110,7 +110,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "f5d85a30f12ca9e2",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -123,7 +123,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "83bdc57c9cb496f0",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -136,7 +136,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "573f0b7a27daf9df",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
@@ -149,7 +149,7 @@ class _BannerAdsState extends State<BannerAds> {
               height: 20,
             ),
             MaxAdView(
-              adUnitId: "c040bb6ec624ef08",
+              adUnitId: "8e1bc9bf25d6178d",
               adFormat: AdFormat.banner,
               listener: AdViewAdListener(
                   onAdLoadedCallback: (ad) {},
